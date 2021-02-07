@@ -1,0 +1,10 @@
+C:\Users\ugouc\source\repos\Calendar_5\bin\Debug\Calendar_5.exe.config
+C:\Users\ugouc\source\repos\Calendar_5\bin\Debug\Calendar_5.exe
+C:\Users\ugouc\source\repos\Calendar_5\bin\Debug\Calendar_5.pdb
+C:\Users\ugouc\source\repos\Calendar_5\obj\Debug\Calendar_5.csprojAssemblyReference.cache
+C:\Users\ugouc\source\repos\Calendar_5\obj\Debug\Calendar_5.Form1.resources
+C:\Users\ugouc\source\repos\Calendar_5\obj\Debug\Calendar_5.Properties.Resources.resources
+C:\Users\ugouc\source\repos\Calendar_5\obj\Debug\Calendar_5.csproj.GenerateResource.cache
+C:\Users\ugouc\source\repos\Calendar_5\obj\Debug\Calendar_5.csproj.CoreCompileInputs.cache
+C:\Users\ugouc\source\repos\Calendar_5\obj\Debug\Calendar_5.exe
+C:\Users\ugouc\source\repos\Calendar_5\obj\Debug\Calendar_5.pdb
