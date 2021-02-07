@@ -1,0 +1,10 @@
+C:\Users\ugouc\source\repos\WordCount_2\bin\Debug\WordCount_2.exe.config
+C:\Users\ugouc\source\repos\WordCount_2\bin\Debug\WordCount_2.exe
+C:\Users\ugouc\source\repos\WordCount_2\bin\Debug\WordCount_2.pdb
+C:\Users\ugouc\source\repos\WordCount_2\obj\Debug\WordCount_2.csprojAssemblyReference.cache
+C:\Users\ugouc\source\repos\WordCount_2\obj\Debug\WordCount_2.Form1.resources
+C:\Users\ugouc\source\repos\WordCount_2\obj\Debug\WordCount_2.Properties.Resources.resources
+C:\Users\ugouc\source\repos\WordCount_2\obj\Debug\WordCount_2.csproj.GenerateResource.cache
+C:\Users\ugouc\source\repos\WordCount_2\obj\Debug\WordCount_2.csproj.CoreCompileInputs.cache
+C:\Users\ugouc\source\repos\WordCount_2\obj\Debug\WordCount_2.exe
+C:\Users\ugouc\source\repos\WordCount_2\obj\Debug\WordCount_2.pdb

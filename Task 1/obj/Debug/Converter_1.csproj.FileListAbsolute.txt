@@ -1,0 +1,10 @@
+C:\Users\ugouc\source\repos\Converter_1\bin\Debug\Converter_1.exe.config
+C:\Users\ugouc\source\repos\Converter_1\bin\Debug\Converter_1.exe
+C:\Users\ugouc\source\repos\Converter_1\bin\Debug\Converter_1.pdb
+C:\Users\ugouc\source\repos\Converter_1\obj\Debug\Converter_1.csprojAssemblyReference.cache
+C:\Users\ugouc\source\repos\Converter_1\obj\Debug\Converter_1.Form1.resources
+C:\Users\ugouc\source\repos\Converter_1\obj\Debug\Converter_1.Properties.Resources.resources
+C:\Users\ugouc\source\repos\Converter_1\obj\Debug\Converter_1.csproj.GenerateResource.cache
+C:\Users\ugouc\source\repos\Converter_1\obj\Debug\Converter_1.csproj.CoreCompileInputs.cache
+C:\Users\ugouc\source\repos\Converter_1\obj\Debug\Converter_1.exe
+C:\Users\ugouc\source\repos\Converter_1\obj\Debug\Converter_1.pdb
